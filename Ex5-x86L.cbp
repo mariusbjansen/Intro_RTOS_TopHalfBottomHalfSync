@@ -19,16 +19,16 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="../../../../../Blocks/PC/CodeBlocks16.01/pc.c">
+		<Unit filename="../../../../../../Blocks/PC/CodeBlocks16.01/pc.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="../../../../../uCOS-II/Ports/WIN32/os_cpu_c.c">
+		<Unit filename="../../../../../../uCOS-II/Ports/WIN32/os_cpu_c.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="../../../../../uCOS-II/Ports/WIN32/os_trace.c">
+		<Unit filename="../../../../../../uCOS-II/Ports/WIN32/os_trace.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="../../../../../uCOS-II/Source/ucos_ii.c">
+		<Unit filename="../../../../../../uCOS-II/Source/ucos_ii.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="test.c">
