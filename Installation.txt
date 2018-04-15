@@ -1,0 +1,13 @@
+	CodeBlocks link:
+	https://sourceforge.net/projects/codeblocks/files/Binaries/16.01/Windows/
+	
+	Include directories:
+	..\..\Ex5-x86L\Intro_RTOS_TopHalfBottomHalfSync
+	..\..\..\..\..\..\uCOS-II\Source
+	..\..\..\..\..\..\uCOS-II\Ports\WIN32
+	..\..\..\..\..\..\Blocks\PC\CodeBlocks16.01
+	
+	Link Libraries:
+	libwinmm.a
+
+	EXTRACT FILE ON ___C___ DRIVE!

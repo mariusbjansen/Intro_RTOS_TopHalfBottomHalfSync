@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1326783178 source:c:\micrium\software\evalboards\microsoft\windows\codeblocks16.01\ex5-x86l\intro_rtos_tophalfbottomhalfsync\test.c
+	"includes.h"
+
+1492357782 c:\micrium\software\evalboards\microsoft\windows\codeblocks16.01\ex5-x86l\intro_rtos_tophalfbottomhalfsync\includes.h
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<conio.h>
+	<dos.h>
+	<setjmp.h>
+	<os_cpu.h>
+	<os_cfg.h>
+	<ucos_ii.h>
+	<pc.h>
+
+1492351157 source:c:\micrium\software\blocks\pc\codeblocks16.01\pc.c
+	"includes.h"
+
+1310553474 source:c:\micrium\software\ucos-ii\ports\win32\os_cpu_c.c
+	"includes.h"
+	"os_trace.h"
+
+1117098624 c:\micrium\software\ucos-ii\ports\win32\os_trace.h
+
+1262962432 source:c:\micrium\software\ucos-ii\ports\win32\os_trace.c
+	"includes.h"
+	"os_trace.h"
+
+1275557662 source:c:\micrium\software\ucos-ii\source\ucos_ii.c
+	<ucos_ii.h>
+	<os_core.c>
+	<os_flag.c>
+	<os_mbox.c>
+	<os_mem.c>
+	<os_mutex.c>
+	<os_q.c>
+	<os_sem.c>
+	<os_task.c>
+	<os_time.c>
+	<os_tmr.c>
+
